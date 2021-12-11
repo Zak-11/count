@@ -10,7 +10,7 @@ const Value = function ()  {
         if (value >= 5) {
             alert('достаточо')
         } else {
-            alert('жми еще')
+            alert('добавь еще')
         }
     }
     function decrement () {
